@@ -61,7 +61,7 @@ text
 
 1. **Clone this repo:**
     ```
-    git clone https://github.com/YOUR_USERNAME/ai-devops-orchestrator.git
+    git clone https://github.com/hmokara/ai-devops-orchestrator.git
     cd ai-devops-orchestrator
     ```
 2. **Install dependencies:**

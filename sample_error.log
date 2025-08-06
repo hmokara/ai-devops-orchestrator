@@ -1,0 +1,4 @@
+[ERROR] 2025-08-05 10:23:45 - ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "deploy.py", line 12, in <module>
+    import requests
